@@ -1,16 +1,17 @@
-## Hi there 👋
+Prabir Sinha, PMP
+Technology program leader with 20 years in enterprise SaaS. I spent 16 years at Manhattan Associates, the first 11 as a software engineer building optimization engines for transportation software in Visual C++ and MySQL, and later led delivery of new product capabilities. At BigBasket, one of India's largest online grocers, I ran more than 20 concurrent programs on its supply chain platform.
 
-<!--
-**prabirsinha-can/prabirsinha-can** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+What I work on
 
-Here are some ideas to get you started:
+Planning and delivering multi-team technology programs: scope, milestones, dependencies, risks and release readiness
+Agile delivery with distributed engineering teams
+Supply chain platforms: warehouse, transportation and order management (WMS, TMS, OMS)
+System integrations and API specifications
+Using AI tools in delivery work
+Selected results
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Rebuilt a release practice that cut nationwide deployment from about two months to under two weeks
+Led a team of 10 engineers to deliver a parcel shipping capability adopted by 8 enterprise customers
+Based in Saskatoon, Canada. PMP (Project Management Institute), MBA (IIM Bangalore), Master of Computer Applications.
+
+LinkedIn
